@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Ebay1" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-26T12:13:02" hostname="DESKTOP-5L7N2A8" time="9.266">
+<testsuite name="Ebay1" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-26T13:30:00" hostname="DESKTOP-5L7N2A8" time="5.119">
   <properties/>
-  <testcase name="Test1" classname="Ebay1" time="9.266"/>
+  <testcase name="Test1" classname="Ebay1" time="5.119"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 43189
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 38671
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-mai 26, 2021 2:13:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+mai 26, 2021 3:29:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFOS: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
